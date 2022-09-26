@@ -306,7 +306,7 @@ edx %>% group_by(reviewDelay) %>%
   labs(x = "Review Delay", y = "Average Rating")
 ```
 
-### Data Modelling
+## Data Modelling
 
 ```{r dataModelling, eval=FALSE}
 # Evaluation metric: Root Mean Squared Error (RMSE)
